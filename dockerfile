@@ -1,3 +1,3 @@
 FROM busybox
-RUN echo "hello world 2"
+RUN echo "hello world 2te"
 EOF
